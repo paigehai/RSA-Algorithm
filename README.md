@@ -37,16 +37,26 @@ The report is structured to guide readers from the basics of modular arithmetic 
 Here are a few snapshots from the report:
 
 ### Cover Page
-![Cover](images/cover.png)
+<div align="center">
+  <img src="images/cover.png" alt="Cover" width="800"/>
+</div>
 
 ### RSA Key Generation Flow
-![RSA Flow](images/rsa_flow_diagram.png)
+<div align="center">
+  <img src="images/rsa_flow_diagram.png" alt="RSA Flow" width="400"/>
+</div>
 
 ### Worked Example: Encryption & Decryption
-![Example](images/encryption_example.png)
+<div align="center">
+  <img src="images/encryption_example.png" alt="Example" width="700"/>
+</div>
 
 ### Applications of RSA
-![Applications](images/applications.png)
+<div align="center">
+  <img src="images/applications.png" alt="Applications" width="700"/>
+</div>
 
 ### RSA Vulnerabilities Overview
-![Vulnerabilities](images/vulnerabilities_summary.png)
+<div align="center">
+  <img src="images/vulnerabilities_summary.png" alt="Vulnerabilities" width="700"/>
+</div>
